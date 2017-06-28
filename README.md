@@ -15,7 +15,7 @@ you can download the project code and import file of TurnTableSurfaceView.java i
 Mr.Li
 
 
-## LICENSE
+## License
 
 ### Copyright 2017, Mr.Li
 
