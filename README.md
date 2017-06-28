@@ -11,7 +11,7 @@ you can download the project code and import file of TurnTableSurfaceView.java i
 
 ## who
 
-### Developer By 
+### Developed By 
 Mr.Li
 
 
